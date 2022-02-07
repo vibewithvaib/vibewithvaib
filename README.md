@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhu4coding
-- 👀 I’m interested in computer science
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning programming skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
