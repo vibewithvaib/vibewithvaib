@@ -1,66 +1,52 @@
-# Hi there, I'm Vaibhavi Kadam! 👋
+# Hi there, I'm [Your Name]! 👋
+![GIF](https://tenor.com/view/cat-gif-26024704)
 
-I'm a final-year Computer Engineering student based in Mumbai, India, with a passion for coding and an eye for detail. I believe in continuous learning and am enthusiastic about backend development. When I'm not crafting code, you can find me exploring the world through the lens of my camera.
+Welcome to my coding playground! I'm a passionate computer science engineering student from Mumbai, India, with a strong inclination towards backend development and a flair for UI/UX design. When I'm not crafting code, I'm busy capturing moments through my lens.
 
-## 🎓 Education
-
-- **Bachelor Of Engineering (Computer)**
-  - Mumbai University | 2020 - 2024
-  - Final Year, Computer Engineering
-  - Scored 9.50 CGPA Average
-
-- **HSC, Maharashtra**
-  - Mahatma School Of Academics and Sports | 2018-2020
-  - Merit Position with 83.40% in Higher Secondary School Certificate
-  - MHT CET Score 98.19%ile
-
-- **SSC, Maharashtra**
-  - Mahatma School Of Academics and Sports | 2008-2018
-  - Merit Position with 94.20% in Secondary School Certificate, Maharashtra
-
-## 💻 Skills
+## 🚀 Skills
 
 - **Programming Languages:**
-  - ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-  - ![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+  ![C++](https://img.shields.io/badge/-C++-purple?style=for-the-badge&logo=cplusplus)
 
 - **Backend:**
-  - ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=node.js&logoColor=white)
-  - ![ExpressJS](https://img.shields.io/badge/-ExpressJS-lightgrey?style=flat&logo=express&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-success?style=flat&logo=mongodb&logoColor=white)
-  - ![NoSQL](https://img.shields.io/badge/-NoSQL-yellowgreen?style=flat)
-  - ![RestAPI](https://img.shields.io/badge/-RestAPI-darkgreen?style=flat)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=spring)
+  ![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge&logo=spring)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-lightgreen?style=for-the-badge&logo=node.js)
+  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-darkgreen?style=for-the-badge&logo=express)
+  ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=for-the-badge&logo=sql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-success?style=for-the-badge&logo=mongodb)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-9cf?style=for-the-badge&logo=nosql)
+  ![RestAPI](https://img.shields.io/badge/-RestAPI-orange?style=for-the-badge&logo=api)
 
 - **Frontend:**
-  - ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=flat&logo=react&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)
-  - ![JS](https://img.shields.io/badge/-JS-yellow?style=flat&logo=javascript&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=react)
+  ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3)
+  ![JS](https://img.shields.io/badge/-JS-yellow?style=for-the-badge&logo=javascript)
 
 - **Testing:**
-  - ![Selenium](https://img.shields.io/badge/-Selenium-success?style=flat&logo=selenium&logoColor=white)
-  - ![Cucumber](https://img.shields.io/badge/-Cucumber-darkgreen?style=flat)
+  ![Selenium](https://img.shields.io/badge/-Selenium-success?style=for-the-badge&logo=selenium)
+  ![Cucumber](https://img.shields.io/badge/-Cucumber-lightgreen?style=for-the-badge&logo=cucumber)
 
 - **Version Controls:**
-  - ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-  - ![Github](https://img.shields.io/badge/-Github-brightgreen?style=flat&logo=github&logoColor=white)
-  - ![Bitbucket](https://img.shields.io/badge/-Bitbucket-darkblue?style=flat&logo=bitbucket&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git)
+  ![Github](https://img.shields.io/badge/-Github-darkblue?style=for-the-badge&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=for-the-badge&logo=bitbucket)
 
 - **UI/UX:**
-  - ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-violet?style=for-the-badge&logo=figma)
+
+
+## 🌈 Motivational Lines
+
+"Turning coffee into code and dreams into reality. Embracing challenges, one bug at a time. Always coding forward, because the best is yet to come!"
 
 ## 📫 Connect with Me
-- LinkedIn: [vaibhavi-kadam2701](https://www.linkedin.com/in/vaibhavi-kadam2701/)
-- Email: kadamvaibhavi2701@gmail.com
 
-## 🌟 Motivation
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [Your Twitter Handle]
 
-*"Embracing challenges and transforming them into opportunities for growth."*
-
-Feel free to explore my repositories and connect with me. Let's code and create together!
-
-Happy coding! 🚀
-
+Let's create something amazing together! 🚀
