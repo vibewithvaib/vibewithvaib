@@ -1,5 +1,5 @@
 # Hi there, I'm Vaibhavi! 👋
-![GIF](https://tenor.com/view/cat-gif-26024704)
+![GIF]([https://tenor.com/view/cat-gif-26024704](https://i.gifer.com/2GU.gif))
 
 Welcome to my coding playground! I'm a passionate computer science engineering student from Mumbai, India, with a strong inclination towards backend development and a flair for UI/UX design. When I'm not crafting code, I'm busy capturing moments through my lens.
 
