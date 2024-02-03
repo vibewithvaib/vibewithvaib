@@ -1,7 +1,6 @@
 # Hi there, I'm Vaibhavi! 👋
-![GIF](https://i.gifer.com/2GU.gif)
 
-Welcome to my coding playground! I'm a passionate computer science engineering student from Mumbai, India, with a strong inclination towards backend development and a flair for UI/UX design. When I'm not crafting code, I'm busy capturing moments through my lens.
+Welcome to my coding playground! I'm a passionate computer science engineering student from Mumbai, India, with a strong inclination towards backend development. When I'm not crafting code, I'm busy capturing moments through my lens.
 
 ## 🚀 Skills
 
@@ -42,7 +41,7 @@ Welcome to my coding playground! I'm a passionate computer science engineering s
 
 ## 🌈 Motivational Lines
 
-"Turning coffee into code and dreams into reality. Embracing challenges, one bug at a time. Always coding forward, because the best is yet to come!"
+"Turning coffee into code and dreams into reality. Always coding forward, because the best is yet to come!"
 
 ## 📫 Connect with Me
 
