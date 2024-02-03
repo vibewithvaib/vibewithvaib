@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Vaibhavi! 👋
 ![GIF](https://tenor.com/view/cat-gif-26024704)
 
 Welcome to my coding playground! I'm a passionate computer science engineering student from Mumbai, India, with a strong inclination towards backend development and a flair for UI/UX design. When I'm not crafting code, I'm busy capturing moments through my lens.
@@ -46,7 +46,6 @@ Welcome to my coding playground! I'm a passionate computer science engineering s
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- LinkedIn: https://www.linkedin.com/in/vaibhavi-kadam2701/
 
 Let's create something amazing together! 🚀
