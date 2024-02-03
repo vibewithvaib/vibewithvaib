@@ -53,11 +53,8 @@ I'm a final-year Computer Engineering student based in Mumbai, India, with a pas
   - ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)
 
 ## 📫 Connect with Me
-
-- GitHub: [vaibhu4coding](https://github.com/vaibhu4coding)
 - LinkedIn: [vaibhavi-kadam2701](https://www.linkedin.com/in/vaibhavi-kadam2701/)
 - Email: kadamvaibhavi2701@gmail.com
-- Mobile: +91 9326400351
 
 ## 🌟 Motivation
 
