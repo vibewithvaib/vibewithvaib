@@ -27,8 +27,6 @@ I'm a final-year Computer Engineering student based in Mumbai, India, with a pas
   - ![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat&logo=c%2B%2B&logoColor=white)
 
 - **Backend:**
-  - ![SpringBoot](https://img.shields.io/badge/-SpringBoot-success?style=flat&logo=spring&logoColor=white)
-  - ![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=flat&logo=spring&logoColor=white)
   - ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=node.js&logoColor=white)
   - ![ExpressJS](https://img.shields.io/badge/-ExpressJS-lightgrey?style=flat&logo=express&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white)
@@ -66,8 +64,6 @@ I'm a final-year Computer Engineering student based in Mumbai, India, with a pas
 - Mobile: +91 9326400351
 
 ## 🌟 Motivation
-
-*"Turning lines of code into meaningful solutions, one bug at a time."*
 
 *"Embracing challenges and transforming them into opportunities for growth."*
 
