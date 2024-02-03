@@ -52,10 +52,6 @@ I'm a final-year Computer Engineering student based in Mumbai, India, with a pas
 - **UI/UX:**
   - ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)
 
-## 🚀 Experience
-
-[Add your relevant experience here]
-
 ## 📫 Connect with Me
 
 - GitHub: [vaibhu4coding](https://github.com/vaibhu4coding)
