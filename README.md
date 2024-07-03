@@ -38,7 +38,13 @@ Welcome to my coding playground! I'm a passionate computer science engineering s
 - **UI/UX:**
   ![Figma](https://img.shields.io/badge/-Figma-violet?style=for-the-badge&logo=figma)
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ## 🌈 Motivational Lines
 
 "Turning coffee into code and dreams into reality. Always coding forward, because the best is yet to come!"
