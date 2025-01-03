@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhavi! 👋
 
-Welcome to my coding playground! I'm a passionate computer science engineering student from Mumbai, India, with a strong inclination towards backend development. When I'm not crafting code, I'm busy capturing moments through my lens.
+Just an Coding Enthusiast from India.... passionate developer with a love for writing elegant backend solutions and diving deep into the world of machine learning. 
 
 ## 🚀 Skills
 
@@ -11,14 +11,16 @@ Welcome to my coding playground! I'm a passionate computer science engineering s
   ![C++](https://img.shields.io/badge/-C++-purple?style=for-the-badge&logo=cplusplus)
 
 - **Backend:**
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=spring)
-  ![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge&logo=spring)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-lightgreen?style=for-the-badge&logo=node.js)
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-darkgreen?style=for-the-badge&logo=express)
   ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=for-the-badge&logo=sql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-success?style=for-the-badge&logo=mongodb)
   ![NoSQL](https://img.shields.io/badge/-NoSQL-9cf?style=for-the-badge&logo=nosql)
   ![RestAPI](https://img.shields.io/badge/-RestAPI-orange?style=for-the-badge&logo=api)
+
+- **Cloud:**
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - **Frontend:**
   ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=react)
@@ -38,6 +40,8 @@ Welcome to my coding playground! I'm a passionate computer science engineering s
 - **UI/UX:**
   ![Figma](https://img.shields.io/badge/-Figma-violet?style=for-the-badge&logo=figma)
 
+- **Machine Learning:**
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -45,11 +49,8 @@ Welcome to my coding playground! I'm a passionate computer science engineering s
   
   <br/><br/><br/>
 </div>
-## 🌈 Motivational Lines
 
-"Turning coffee into code and dreams into reality. Always coding forward, because the best is yet to come!"
-
-## 📫 Connect with Me
+## 📫 Let me know if you’d like further tweaks!
 
 - LinkedIn: https://www.linkedin.com/in/vaibhavi-kadam2701/
 
