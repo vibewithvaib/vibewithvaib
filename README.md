@@ -45,14 +45,25 @@ Just an Coding Enthusiast from India.... passionate developer with a love for wr
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <p align="center">
+  <a href="https://github.com/vibewithvaib">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vibewithvaib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vibewithvaib&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+  </p>
 </div>
 
-## 📫 Let me know if you’d like further tweaks!
+<div align="center">
+  <h2>Connect with me</h2>
+<p>
+<a href="https://www.linkedin.com/in/vaibhavi-kadam2701/">
+  <img src="https://img.shields.io/badge/-Sanskar%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sanskar3272@gmail.com">
+  <img src="https://img.shields.io/badge/-kadamvaibhavi2701@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+</p>
+</div>
 
-- LinkedIn: https://www.linkedin.com/in/vaibhavi-kadam2701/
 
-Let's create something amazing together! 🚀
+
