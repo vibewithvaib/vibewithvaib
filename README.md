@@ -57,7 +57,7 @@ Just an Coding Enthusiast from India.... passionate developer with a love for wr
   <h2>Connect with me</h2>
 <p>
 <a href="https://www.linkedin.com/in/vaibhavi-kadam2701/">
-  <img src="https://img.shields.io/badge/-Sanskar%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vaibhavi%20Kadam-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sanskar3272@gmail.com">
   <img src="https://img.shields.io/badge/-kadamvaibhavi2701@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
