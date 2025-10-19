@@ -10,8 +10,6 @@ Just an Coding Enthusiast from India.... passionate developer with a love for wr
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 - **Backend:**
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-lightgreen?style=for-the-badge&logo=node.js)
-  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-darkgreen?style=for-the-badge&logo=express)
   ![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=for-the-badge&logo=sql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-success?style=for-the-badge&logo=mongodb)
   ![NoSQL](https://img.shields.io/badge/-NoSQL-9cf?style=for-the-badge&logo=nosql)
@@ -19,8 +17,7 @@ Just an Coding Enthusiast from India.... passionate developer with a love for wr
   ![Spring Boot](https://img.shields.io/badge/-SpringBoot-success?style=for-the-badge&logo=springboot)
   
 
-- **Cloud, Deployment and Architecture:**
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **Deployment and Architecture:**
   ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
   ![Microservices](https://img.shields.io/badge/-Microservices-lightgrey?style=for-the-badge&logo=architecture)
   
@@ -44,7 +41,7 @@ Just an Coding Enthusiast from India.... passionate developer with a love for wr
   ![GenAI](https://img.shields.io/badge/-GenAI-yellow?style=for-the-badge&logo=ai)
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <p align="center">
   <a href="https://github.com/vibewithvaib">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vibewithvaib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -59,7 +56,7 @@ Just an Coding Enthusiast from India.... passionate developer with a love for wr
 <a href="https://www.linkedin.com/in/vaibhavi-kadam2701/">
   <img src="https://img.shields.io/badge/-Vaibhavi%20Kadam-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sanskar3272@gmail.com">
+<a href="mailto:kadamvaibhavi2701@gmail.com">
   <img src="https://img.shields.io/badge/-kadamvaibhavi2701@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </p>
